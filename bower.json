@@ -1,0 +1,28 @@
+{
+  "name": "pluto-ng",
+  "description": "Pluto runs on Angular",
+  "main": "index.js",
+  "authors": [
+    "dmi3y <lapshukov@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.5.4"
+  },
+  "resolutions": {
+    "angular": "1.5.4"
+  },
+  "devDependencies": {
+    "angular-mocks": "1.5.3"
+  }
+}
