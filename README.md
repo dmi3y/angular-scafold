@@ -7,7 +7,7 @@
 - Linux or Mac OS.
 - NodeJs with npm.
 
-> Windows should work too if it have bash shell support, though not guaranteed.
+> Windows should work too if it has bash shell support, though not guaranteed.
 
 ### Code conventions
 
