@@ -11,7 +11,7 @@
 
 ### Code conventions
 
-- [Jshint][jshint] for JavaScript linting.
+- [JSHint][jshint] for JavaScript linting.
 - ES6 syntax for JavaScript through Babel.
 - Sass as css preprocessor wiht postcss transformations:
     - [Autoprefixer][autoprefixer].
@@ -33,12 +33,12 @@ Watchers commands, has to be executed each in separate terminal.
 
 Unit tests with mocha and chai.
 
-- 'npm run test' - single run
-- 'npm run test-ci' - continuous intergation mode
+- `npm run test` - single run
+- `npm run test-ci` - continuous intergation mode
 
 ### Documentation
 
-Use [Jsdocs][jsdocs] notations for javascript and [Sass Doc][sassdoc] notations for sass.
+Use [JSdocs][jsdocs] notations for javascript and [SassDoc][sassdoc] notations for sass.
 
 [jshint]: https://github.com/jshint/jshint
 [ng-annotate]: https://github.com/olov/ng-annotate
